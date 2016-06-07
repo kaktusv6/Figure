@@ -1,0 +1,5 @@
+#include "Point.cpp"
+#include "Segment.cpp"
+#include "Cercle.cpp"
+#include "Rectangle.cpp"
+#include "Square.cpp"
